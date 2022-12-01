@@ -20,6 +20,6 @@ El primer análisis realizado a los datos lo puede encontrar en:
 
 - Caso aplicado Prueba saber 11 [GitHub](https://github.com/Daveztat/HDBSCAN-y-GMM/blob/main/ICFES.ipynb)
 
-en donde se construyeron los clusters del conjunto de datos. el segundo análisis se realizó con el lenguaje estadístico R, esto debido a que python no tiene hasta el momento una herramienta igualmente robusta para el análisis descriptivo multivariado, y el cual encontrará en: 
+en donde se construyeron los clusters del conjunto de datos. El segundo análisis se realizó con el lenguaje estadístico R, esto debido a que python no tiene hasta el momento una herramienta igualmente robusta para el análisis descriptivo multivariado, y el cual encontrará en: 
 
 - Análisis descriptivo [GitHub](https://github.com/Daveztat/HDBSCAN/blob/main/Descripciones.R)
