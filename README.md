@@ -14,7 +14,7 @@ En este repositorio encontrarás una introducción lo suficientemente intuitiva,
 - Teoría, ejemplos y algunos ejercicios [GitHub](https://github.com/Daveztat/HDBSCAN-y-GMM/blob/main/HDBSCAN.ipynb)
 ### Prueba saber 11 2021
 
-El objetivo principal de este trabajo es el de caracterizar a aquellas personas que presentaron la prueba saber 11 del calendario A del 2021. Para ello se hizo implementación de algunas herramientas estadísticas clásicas como otras más recientes, algunos ejemplos de ellas fueron: ACP(análisis de componentes principales) o HDBSCAN(Hierarchical Density-based Spatial Clustering of Applications with Noise).
+El objetivo principal de este trabajo es el de caracterizar a aquellas personas que presentaron la prueba saber 11 en la ciudad de Bogotá del calendario A del 2021. Para ello se hizo implementación de algunas herramientas estadísticas clásicas como otras más recientes, algunos ejemplos de ellas fueron: ACP(análisis de componentes principales) o HDBSCAN(Hierarchical Density-based Spatial Clustering of Applications with Noise).
 
 El primer análisis realizado a los datos lo puede encontrar en: 
 
