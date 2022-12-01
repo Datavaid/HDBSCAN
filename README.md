@@ -11,3 +11,4 @@ En este repositorio encontrarás una introducción lo suficientemente intuitiva,
 ## Contenido
 - Introducción intuitiva al HDBSCAN [GitHub](https://github.com/Daveztat/HDBSCAN-y-GMM/blob/main/First_HDBSCAN.ipynb)
 - Teoría, ejemplos y algunos ejercicios [GitHub](https://github.com/Daveztat/HDBSCAN-y-GMM/blob/main/HDBSCAN.ipynb)
+- Caso aplicado Prueba saber 11 [GitHub](https://github.com/Daveztat/HDBSCAN-y-GMM/blob/main/ICFES.ipynb)
