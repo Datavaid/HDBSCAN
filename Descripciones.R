@@ -6,7 +6,7 @@ library(FactoMineR)
 library(factoextra)
 
 
-saber11a <- read_delim("C:/Users/Manuel Vargas/Desktop/saber11a.txt", 
+saber11a <- read_delim("./Data/saber11a.txt", 
                        delim = "|", escape_double = FALSE, trim_ws = TRUE)
 
 
